@@ -1,8 +1,8 @@
 # trails art
 
-This repo contains source and renderings of various Trails artwork.
+This repo contains source and renderings of various Trails artwork used on the [trailsjs.io](http://trailsjs.io) website and elsewhere.
 
-### Colors
+## Colors
 
 The Trails color palette:
 
@@ -14,3 +14,8 @@ The Trails color palette:
 | #63A87B | green |
 | #3A5566 | blue |
 
+## Contributors
+
+- [Jon Hargreaves](https://github.com/jonhargreaves)
+- [Blaine Price](https://github.com/wbprice)
+- [Joey Di Nardo](https://github.com/yejodido)
